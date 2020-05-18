@@ -24,6 +24,22 @@ To Running the Server simply type this command on your console
     npm run json:server
   ```
 
+this command will run the server on port:5000 that was already setup on package.json file and if you see here is the command
+
+  ```
+    "scripts": {
+      "json:server": "json-server --watch db.json --port 5000"
+    },
+  ```
+After you running the server
+
+  ```
+    http://localhost:5000
+  ```
+
+you will get the documentation dashboard, you can diving into the documentation to see what would you get.
+
+
 ### Folder Structure
 Here is the folder structure after you done with npm intall or after you got all the dependencies
 
@@ -35,4 +51,20 @@ Here is the folder structure after you done with npm intall or after you got all
     |--package-lock.json
     |--package.json
     |--README.md
+  ```
+
+### The Routes
+In every REST-API world you can find many kinds of Routes that provided by the services, like
+
+  ```
+    GET, POST, PUT, DELETE, etc
+  ```
+
+but in this case, we just use METHOD GET, because this is very simple REST API.
+The Routes that i provide here is
+
+  ```
+    GET http://localhost:5000 (Dashboard)
+    GET http://localhost:5000/data (Fetch All Data)
+    GET http://localhost:5000/data/1 (Fetch 1 Specific Data)
   ```

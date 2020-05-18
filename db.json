@@ -1,10 +1,11 @@
-[
+{
+  "data": [
     {
         "id": 1,
         "name": "Park Royale Apartment",
         "description": "Sewa Apartemen Harga Terjangkau & Fasilitas Lengkap.",
         "facilities": ["kitchen", "hot water", "television", "internet"],
-        "type": "Office",
+        "type": "apartment",
         "images": {
             "primary": "https://img-images.com/001.jpg",
             "others": ["https://img-images.com/002.jpg", "https://img-images.com/002.jpg", "https://img-images.com/002.jpg"]
@@ -23,7 +24,7 @@
         "name": "Airy Eco Syariah Benhil",
         "description": "Dapatkan kamar hotel terbaik di Airy Eco Syariah Benhil Bendungan Asahan Tiga 12 Jakarta",
         "facilities": ["kitchen", "hot water", "television", "internet"],
-        "type": "Office",
+        "type": "hotel",
         "images": {
             "primary": "https://img-images.com/001.jpg",
             "others": ["https://img-images.com/002.jpg", "https://img-images.com/002.jpg", "https://img-images.com/002.jpg"]
@@ -42,7 +43,7 @@
         "name": "Bendungan Hilir Residence",
         "description": "Tempat nyaman, kasur empuk, banyak minimart/ restoran di dekat hotel karena dekat pasar Benhil/ Bendungan Hilir",
         "facilities": ["kitchen", "hot water", "television", "internet"],
-        "type": "Office",
+        "type": "hotel",
         "images": {
             "primary": "https://img-images.com/001.jpg",
             "others": ["https://img-images.com/002.jpg", "https://img-images.com/002.jpg", "https://img-images.com/002.jpg"]
@@ -56,4 +57,5 @@
 
         }
     }
-]
+  ]
+}

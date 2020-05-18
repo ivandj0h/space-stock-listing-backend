@@ -4,7 +4,7 @@
   "description": "This is a simple backend services using json-server",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json --port 5000"
   },
   "repository": {
     "type": "git",
