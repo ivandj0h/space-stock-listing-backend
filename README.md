@@ -1,7 +1,10 @@
 ## SpaceStock Listing Backend Services
 
 ### About this services
-This is a simple backend Services to supply my other git repo which is space-stock-listng, it use a fake REST API using an incredible tool called JSON-Server. This is used for mocking and prototyping and is something that I personally use all of the time. It is useful to anyone building frontend apps with something like Angular, React, etc.
+This is a simple backend Services to supply my other git repository which is space-stock-listng, it's a fake REST API using an incredible tool called JSON-Server.
+This is used for mocking and prototyping and is something that I personally use all of the time. It is useful to anyone building frontend apps with something like Angular, React, etc.
+This fake REST-API is very simple and easy to develop if you don't want to bother yourself by connecting it to a database, or something more difficult, and this will also speed up the process of developing backend services
+
 
 ### Getting Started
 To Start this Server, simply clone this repository using command line
@@ -24,7 +27,7 @@ To Running the Server simply type this command on your console
     npm run json:server
   ```
 
-this command will run the server on port:5000 that was already setup on package.json file and if you see here is the command
+this command will run the server on port 5000 which is already setup on package.json file and you can see how these setup was
 
   ```
     "scripts": {
@@ -54,14 +57,14 @@ Here is the folder structure after you done with npm intall or after you got all
   ```
 
 ### The Routes
-In every REST-API world you can find many kinds of Routes that provided by the services, like
+In every REST-API world you can find many kinds of Method & Routes that already provided by the services, like
 
   ```
     GET, POST, PUT, DELETE, etc
   ```
 
 but in this case, we just use METHOD GET, because this is very simple REST API.
-The Routes that i provide here is
+You can fine some of the Routes that i was provide in this services.
 
   ```
     GET http://localhost:5000 (Dashboard)
