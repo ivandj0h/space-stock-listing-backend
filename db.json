@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Park Royale Apartment",
+        "description": "Sewa Apartemen Harga Terjangkau & Fasilitas Lengkap.",
+        "facilities": ["kitchen", "hot water", "television", "internet"],
+        "type": "Office",
+        "images": {
+            "primary": "https://img-images.com/001.jpg",
+            "others": ["https://img-images.com/002.jpg", "https://img-images.com/002.jpg", "https://img-images.com/002.jpg"]
+        },
+        "address": {
+            "street": "Jl. Gatot Subroto, RW.2, Bend. Hilir, Tanahabang",
+            "city": "Central Jakarta",
+            "country": "indonesia",
+            "latitude": -6.213027,
+            "longitude": 106.809326
+
+        }
+    },
+    {
+        "id": 2,
+        "name": "Airy Eco Syariah Benhil",
+        "description": "Dapatkan kamar hotel terbaik di Airy Eco Syariah Benhil Bendungan Asahan Tiga 12 Jakarta",
+        "facilities": ["kitchen", "hot water", "television", "internet"],
+        "type": "Office",
+        "images": {
+            "primary": "https://img-images.com/001.jpg",
+            "others": ["https://img-images.com/002.jpg", "https://img-images.com/002.jpg", "https://img-images.com/002.jpg"]
+        },
+        "address": {
+            "street": "Jl.Taman Jl. Bend. Asahan No.12, RT.9/RW.3, Bendungan Hilir, Tanahabang",
+            "city": "Central Jakarta",
+            "country": "indonesia",
+            "latitude": -6.213902,
+            "longitude": 106.809868
+
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bendungan Hilir Residence",
+        "description": "Tempat nyaman, kasur empuk, banyak minimart/ restoran di dekat hotel karena dekat pasar Benhil/ Bendungan Hilir",
+        "facilities": ["kitchen", "hot water", "television", "internet"],
+        "type": "Office",
+        "images": {
+            "primary": "https://img-images.com/001.jpg",
+            "others": ["https://img-images.com/002.jpg", "https://img-images.com/002.jpg", "https://img-images.com/002.jpg"]
+        },
+        "address": {
+            "street": "Jl. Bend. Jatiluhur No.77, RT.1/RW.2, Bend. Hilir, Kecamatan Tanah Abang",
+            "city": "Central Jakarta",
+            "country": "indonesia",
+            "latitude": -6.213049,
+            "longitude": 106.811188
+
+        }
+    }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "space-stock-listing-backend",
+  "version": "1.0.0",
+  "description": "This is a simple backend services using json-server",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivandi1980/space-stock-listing-backend.git"
+  },
+  "author": "Ivandi Djoh Gah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivandi1980/space-stock-listing-backend/issues"
+  },
+  "homepage": "https://github.com/ivandi1980/space-stock-listing-backend#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
