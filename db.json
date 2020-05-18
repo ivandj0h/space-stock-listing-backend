@@ -7,11 +7,11 @@
         "facilities": ["kitchen", "hot water", "television", "internet"],
         "type": "apartment",
         "images": {
-            "primary": "https://img-images.com/001.jpg",
-            "others": ["https://img-images.com/002.jpg", "https://img-images.com/002.jpg", "https://img-images.com/002.jpg"]
+            "primary": "images/park-royal-apartment.jpg",
+            "others": ["images/park-royal-bedroom.jpg", "images/park-royal-kitchen.jpg", "images/park-royal-livingroom.jpg"]
         },
         "address": {
-            "street": "Jl. Gatot Subroto, RW.2, Bend. Hilir, Tanahabang",
+            "street": "Jl. Gatot Subroto, RW.2, Bend. Hilir, Kecamatan Tanah Abang",
             "city": "Central Jakarta",
             "country": "indonesia",
             "latitude": -6.213027,
@@ -30,7 +30,7 @@
             "others": ["https://img-images.com/002.jpg", "https://img-images.com/002.jpg", "https://img-images.com/002.jpg"]
         },
         "address": {
-            "street": "Jl.Taman Jl. Bend. Asahan No.12, RT.9/RW.3, Bendungan Hilir, Tanahabang",
+            "street": "Jl.Taman Jl. Bend. Asahan No.12, RT.9/RW.3, Bendungan Hilir, Kecamatan Tanah Abang",
             "city": "Central Jakarta",
             "country": "indonesia",
             "latitude": -6.213902,
