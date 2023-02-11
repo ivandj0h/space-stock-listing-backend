@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ivandi1980/space-stock-listing-backend#readme",
   "dependencies": {
-    "json-server": "^0.16.1"
+    "json-server": "^0.17.1"
   }
 }
